@@ -48,7 +48,7 @@ export default function Activity1({ onSolve }: Activity1Props) {
           El equipo encuentra un mensaje con las palabras desordenadas. Debes
           ordenarlas correctamente.
         </p>
-        <p className="mt-4 font-mono">SO LA MVA EL L MUE</p>
+        <p className="mt-4 font-mono"> LA VAM SO EL L MUE</p>
         <input
           type="text"
           value={inputValue.toUpperCase()}

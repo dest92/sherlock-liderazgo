@@ -54,6 +54,7 @@ export default function Activity4({ onSolve }: Activity4Props) {
           un barranco y muere. Como Sherlock Holmes, decidis llamar a la agencia de viajes. Tras la llamada, pides el arresto de la mujer
           como culpable del asesinato de su marido, enmascarado como accidente.
           ¿Cómo supiste que fue ella? ¿Qué fue lo que la delató? Escribe el objeto clave que llevó a su arresto (es una palabra):
+          Pista: Sherlock Holmes se fijó el registro de ventas. 
         </p>
         <input
           type="text"
